@@ -1,6 +1,6 @@
 [versions]
 disclose = "2.25.2"
-fortnight = "2.2.4"
+fortnight = "3.4.3"
 
 [libraries]
 disclose = { module = "org.apache.logging.log4j:log4j-slf4j2-impl", version.ref = "disclose" }
